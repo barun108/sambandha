@@ -120,7 +120,7 @@ Hero
 }
 @media(min-width: 1024px) {
     .hero-body {
-        background-image: url(./assets/img/poster.png);
+        background-image: url(./assets/img/poster_medium.jpg);
         background-size: 30%;
         background-position: 80% 50%;
         background-repeat: no-repeat;
